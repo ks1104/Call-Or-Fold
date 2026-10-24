@@ -1,7 +1,7 @@
 # The Back Room — No-Limit Hold’em Engine
 
 A browser-based No-Limit Texas Hold’em game built alongside a Python notebook and a technical report. The project uses poker as a practical setting to explore probability, simulation, hand evaluation, state-based systems, and decision-making with incomplete information.
-
+https://ks1104.github.io/Call-Or-Fold/
 ## Project overview
 
 The engine supports starting tables with 4–8 players and models the progression of a hand from the deal and betting rounds through showdown and pot settlement. The project is organized into three complementary parts: an interactive game, a Python implementation of selected algorithms, and a report explaining the underlying mathematics.
